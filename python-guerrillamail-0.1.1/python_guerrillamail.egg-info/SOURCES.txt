@@ -1,0 +1,8 @@
+guerrillamail.py
+setup.cfg
+setup.py
+python_guerrillamail.egg-info/PKG-INFO
+python_guerrillamail.egg-info/SOURCES.txt
+python_guerrillamail.egg-info/dependency_links.txt
+python_guerrillamail.egg-info/requires.txt
+python_guerrillamail.egg-info/top_level.txt
